@@ -1,4 +1,5 @@
 # 🦠 Cancer Data Classification With K-NN
+### 🏆 Test accuracy: 95.32% (3 nn)
 ## 📑 Project Summary
 Using the Knn algorithm, we analyze and classify the cancer cells we have as benign or malignant
 

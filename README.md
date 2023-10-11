@@ -2,8 +2,8 @@
 ### 🏆 Test accuracy: 95.32% (3 nn)
 ## 🔗 Kaggle Link
 **You can access the detailed description of the project from this link**
- https://www.kaggle.com/code/erdemtaha/detection-cancer-with-logistic-regression/settings?scriptVersionId=123550989
- 
+https://www.kaggle.com/code/erdemtaha/prediction-cancer-data-with-k-nn-95
+
 ## 📑 Project Summary
 Using the Knn algorithm, we analyze and classify the cancer cells we have as benign or malignant
 
